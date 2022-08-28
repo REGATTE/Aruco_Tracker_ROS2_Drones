@@ -5,7 +5,7 @@ cd
 echo "Installing PX4 Autopilot"
 cd Desktop
 # Clone only forked repo
-git clone https://github.com/UAV-TECH/PX4-Autopilot.git --recursive > /dev/null 2>&1
+git clone https://github.com/PX4/PX4-Autopilot.git --recursive > /dev/null 2>&1
 # installs Java JDK 11
 bash ./PX4-Autopilot/Tools/setup/ubuntu.sh > /dev/null 2>&1
 echo " Done Installing PX4 Autopilot"

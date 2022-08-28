@@ -1,0 +1,10 @@
+float32 topleftx
+float32 toplefty
+float32 toprightx
+float32 toprighty
+float32 bottomleftx
+float32 bottomlefty
+float32 bottonrightx
+float32 bottonrighty
+float32 centerx
+float32 centery

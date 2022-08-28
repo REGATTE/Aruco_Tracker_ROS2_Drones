@@ -25,7 +25,7 @@ The autonomous landing system has been tested in Simulation with Gazebo and with
 ## Demo
     The SITL is built on 
     - UBUNTU 20.04 LTS
-    - ROS NOETIC
+    - ROS2 FOXY
     - RX4-AUTOPILOT
     - GAZEBO
 ## Custom Models
